@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+body {
+    background-color: rgb(23, 23, 23);
+    padding: 2rem;
+}
+
+p { 
+    color: #e0c1ed;
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+h1 {
+    color: white;
+    font-size: 2rem;
+    margin: 3rem 2rem;
+}
